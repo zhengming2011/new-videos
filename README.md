@@ -10,7 +10,7 @@
 #### 热门喜剧：[揭秘央视运作喜剧《大裤衩》](http://167.172.205.55:10000/videos/res/big-shorts/) &nbsp;|&nbsp;[揭秘红朝乱象喜剧《雷人水浒》](http://167.172.205.55:10000/videos/res/OutlawsOfMarsh/) &nbsp;|&nbsp;[新唐人时事小品](http://167.172.205.55:10000/videos/res/comedy/)
 
 #### 新闻点评：[世界的十字路口](http://167.172.205.55/tanghao/) &nbsp;|&nbsp; [新闻看点](http://167.172.205.55/news-insight/) &nbsp;|&nbsp;[中国禁闻](http://167.172.205.55/ntdtv-news/) &nbsp;|&nbsp; [新闻拍案惊奇](http://167.172.205.55/dayu/) &nbsp;|&nbsp; [大陆新闻解读](http://167.172.205.55/ntdtv-comedy/)
-####   &nbsp;|&nbsp;  [今日点击](http://167.172.205.55/news-click/)  &nbsp;|&nbsp; [新聞第一現場](http://167.172.205.55/primary-scene/) &nbsp;|&nbsp; [洛城新闻双响炮](http://167.172.205.55/la-news/) &nbsp;|&nbsp; [悦览新闻](http://167.172.205.55/dingyue/)
+####   &nbsp;|&nbsp;  [今日点击](http://167.172.205.55/news-click/)  &nbsp;|&nbsp; [新聞第一現場](http://167.172.205.55/primary-scene/) &nbsp;|&nbsp;
 
 #### 时政评论：[江峰时刻](http://167.172.205.55/today-in-history/) &nbsp;|&nbsp; [文昭谈古论今](http://167.172.205.55/wenzhao/) &nbsp;|&nbsp; [天亮时分](http://167.172.205.55/tianliang/) &nbsp;|&nbsp; [热点互动](http://167.172.205.55/ntdtv-rdhd/) &nbsp;|&nbsp; [萧茗看世界](http://167.172.205.55/simonegao/) &nbsp;|&nbsp; [北京老茶馆](http://167.172.205.55/teahouse/)  &nbsp;|&nbsp;  
 ####   &nbsp;|&nbsp;  [明居正透視中國](http://167.172.205.55/decoding-china/)  &nbsp;|&nbsp; [陳破空縱論天下](http://167.172.205.55/pokong/)  &nbsp;|&nbsp; [薇羽看世間](http://167.172.205.55/weiyu/)  &nbsp;|&nbsp; [台湾政經最前線](http://167.172.205.55/taiwan/)   
